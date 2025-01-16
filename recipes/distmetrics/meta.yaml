@@ -54,7 +54,7 @@ test:
     - pip
 
 about:
-  home: https://github.com/cameronmarshak/distmetrics
+  home: https://github.com/opera-adt/distmetrics
   summary: Measure Disturbances in OPERA RTC-S1 Stacks
   license: Apache-2.0
   license_file: LICENSE.txt
